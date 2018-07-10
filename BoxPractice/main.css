@@ -10,6 +10,9 @@ html {
     background-color: yellow;
     width: 200px;
     height: 100px;
+    text-align: center;
+    font-size: 30px;
+    
 }
 
 .Pear{
@@ -17,6 +20,10 @@ html {
     border: 1px solid black;
     border-width: thick;
     background-color: yellow;
+    width: 200px;
+    height: 100px;
+    text-align: center;
+    font-size: 30px;
 }
 
 .Melon{
@@ -24,5 +31,8 @@ html {
     border: 1px solid black;
     border-width: thick;
     background-color: yellow;
-    
+    width: 200px;
+    height: 100px;
+    text-align: center;
+    font-size: 30px;
 }
