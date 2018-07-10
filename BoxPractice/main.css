@@ -4,19 +4,25 @@ html {
 }
 
 .apple{
-    color: aqua;
+    color: red;
     border: 1px solid black;
     border-width: thick;
+    background-color: yellow;
+    width: 200px;
+    height: 100px;
 }
 
 .Pear{
-    color: aquamarine;
-    border: 1px solid black;
-    border-width: thick;
-}
-
-.Melon{
     color: black;
     border: 1px solid black;
     border-width: thick;
+    background-color: yellow;
+}
+
+.Melon{
+    color: brown;
+    border: 1px solid black;
+    border-width: thick;
+    background-color: yellow;
+    
 }
