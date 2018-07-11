@@ -1,9 +1,16 @@
 .Title{
     color: blue;
+        
+}
+
+body{
+    margin-left: 150px;
+    margin-top: 50px;
 }
 
 .Subtitle{
     color: yellow;
+    text-shadow: 2px 2px black;
 }
 
 .ObladiText{
@@ -12,4 +19,5 @@
 
 .FoodList{
     color: yellow;
+    text-shadow: 2px 2px black;
 }
